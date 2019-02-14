@@ -1,2 +1,2 @@
-g++ code/code.cpp -o build/output.deb
+g++ code/code.cpp -o build/output
 ./build/output
